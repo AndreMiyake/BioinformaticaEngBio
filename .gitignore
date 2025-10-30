@@ -1,0 +1,23 @@
+# Ignorar todas as pastas de dados e resultados
+raw/
+reference/
+cutadapt/
+bwa/
+fastqc/
+gatk/
+vep/
+
+# Arquivos de índice e temporários
+*.fai
+*.dict
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+*.bai
+*.sam
+
+# Caches do Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
