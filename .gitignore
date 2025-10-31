@@ -6,6 +6,7 @@ bwa/
 fastqc/
 gatk/
 vep/
+.conda/
 
 # Arquivos de índice e temporários
 *.fai
